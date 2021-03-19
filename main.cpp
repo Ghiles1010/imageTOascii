@@ -5,7 +5,7 @@
 #include<fstream>
 #include <vector>
 #include<stdlib.h>
-#include "main.h"
+
 
 
 // Characters ordered by number of black pixels
@@ -149,7 +149,7 @@ int main()
         system("cls");
 
     }
-    
+
 
     return 0;
 }
